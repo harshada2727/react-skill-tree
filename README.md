@@ -85,3 +85,19 @@ Portions of this project were created or refined with the help of Windsurf AI, s
 
 - Optimized Search & Performance
   Memoized breadth-first search for highlighting to handle very large graphs efficiently.
+
+
+## Screenshots
+
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4818f0d8-7f4f-40ca-b353-207dfe79b9d5" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/773c6c5d-b65e-4c44-a85f-42c41c81b273" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/61e0d1d1-cf60-4925-ace9-aea483460660" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/cc085066-4e83-4aac-9ce4-939e6a398836" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/107a277b-6cdf-4b05-99a3-3590ff515a93" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/c398f7f6-0153-4105-8666-ef6b655adb12" />
+
+
+
+
+
+
