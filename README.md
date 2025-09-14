@@ -24,20 +24,6 @@ npm run lint
 npm run format
 ```
 
-## Features
-
-- Add / Edit Skills: name, description, cost, and level.
-
-- Connect Skills: drag to create prerequisite edges.
-
-- Cycle Prevention: checks for circular dependencies.
-
-- Unlock Logic: unlock only when all prerequisites are met.
-
-- Persistent Storage: automatically saves to localStorage.
-
-- Search & Highlight: find skills and related neighbors.
-
 ## Tech stack
 
 React: UI library
@@ -51,6 +37,21 @@ nanoid: unique IDs
 Jest: testing framework
 
 ESLint + Prettier: code quality and consistent formatting
+
+## Features
+
+- Add Skills: name, description, cost, and level.
+
+- Connect Skills: drag to create prerequisite edges.
+
+- Cycle Prevention: checks for circular dependencies.
+
+- Unlock Logic: unlock only when all prerequisites are met.
+
+- Persistent Storage: automatically saves to localStorage.
+
+- Search & Highlight: find skills and related neighbors.
+
 
 ## Completed Bonuses
 
