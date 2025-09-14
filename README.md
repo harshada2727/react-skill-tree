@@ -95,6 +95,13 @@ Portions of this project were created or refined with the help of Windsurf AI, s
   <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/cc085066-4e83-4aac-9ce4-939e6a398836" />
   <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/107a277b-6cdf-4b05-99a3-3590ff515a93" />
   <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/c398f7f6-0153-4105-8666-ef6b655adb12" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/184b9cb1-a8a3-4f1f-b2cf-baee9631dd20" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/56f55d08-f729-4403-8bdd-c789c37a797a" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ef7957a8-288c-4e37-8389-5f48f5169e51" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b3237a3c-5545-43e2-bf44-eb94cb911987" />
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d4b2eb1a-6a2b-422c-a56d-90a22325472f" />
+
+
 
 
 
