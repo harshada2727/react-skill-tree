@@ -75,7 +75,7 @@ Portions of this project were created or refined with the help of Windsurf AI, s
 - **Toast Messages** : consistent user feedback for all key actions (add node, unlock, errors).
 - **Input Validation** : ensures validation for required fields (name, description).
 
-## Scope of Improvements
+## Scope of Improvement
 
 - Export/Import & Versioning
   Allow users to back up or share skill trees as JSON and restore previous versions with an undo/redo history.
@@ -89,8 +89,9 @@ Portions of this project were created or refined with the help of Windsurf AI, s
 
 ## Screenshots
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9009ae64-ac2d-4f47-9369-ff3ec01c7476" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3f4ae9ea-66e2-438c-bf62-56e768e9ac05" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d3280738-7bc9-4e24-b5d2-8bee4c683e39" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9009ae64-ac2d-4f47-9369-ff3ec01c7476" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/94fa63fe-8d6c-4b66-a87e-a61db1c4fa97" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5dee52d1-c563-4fc8-9d67-c6148379eaa5" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4c7440f6-dbcf-4ff6-9827-80d15d09e00d" />
